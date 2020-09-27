@@ -10,9 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +53,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-27T07:12:59.060Z" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recommended.upgrade.last.time.stamp" value="1601151460365" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
@@ -63,7 +62,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -174,6 +173,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1601190304148">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1601190304148" />
     <state x="964" y="426" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601148312337">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -182,22 +185,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="626" y="117" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1601148303462" />
-    <state width="1863" height="483" key="GridCell.Tab.0.bottom" timestamp="1601190028256">
+    <state width="1863" height="424" key="GridCell.Tab.0.bottom" timestamp="1601190783063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1863" height="483" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1601190028256" />
-    <state width="1863" height="483" key="GridCell.Tab.0.center" timestamp="1601190028256">
+    <state width="1863" height="424" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1601190783063" />
+    <state width="1863" height="424" key="GridCell.Tab.0.center" timestamp="1601190783063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1863" height="483" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1601190028256" />
-    <state width="1863" height="483" key="GridCell.Tab.0.left" timestamp="1601190028256">
+    <state width="1863" height="424" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1601190783063" />
+    <state width="1863" height="424" key="GridCell.Tab.0.left" timestamp="1601190783063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1863" height="483" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1601190028256" />
-    <state width="1863" height="483" key="GridCell.Tab.0.right" timestamp="1601190028256">
+    <state width="1863" height="424" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1601190783063" />
+    <state width="1863" height="424" key="GridCell.Tab.0.right" timestamp="1601190783063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1863" height="483" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1601190028256" />
+    <state width="1863" height="424" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1601190783063" />
     <state x="538" y="101" key="SettingsEditor" timestamp="1601151807437">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
